@@ -3,11 +3,13 @@
 E-commerce app using flutter!
 
 ## Screenshots
+<table>
  <tr>
     <td><img src="https://github.com/paolauande/shoppingmobile/blob/master/screenshots/1.png" width=270 height=480></td>
     <td><img src="https://github.com/paolauande/shoppingmobile/blob/master/screenshots/2.png" width=270 height=480></td>
     <td><img src="https://github.com/paolauande/shoppingmobile/blob/master/screenshots/3.png" width=270 height=480></td>
-  </tr>
+ </tr>
+</table>
 
 ## Requirements
 - IDE with Flutter SKD installed
