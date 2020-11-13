@@ -1,7 +1,19 @@
 # shoppingmobile
 
-A new Flutter project.
+E-commerce app using flutter!
 
+## Screenshots
+<img src="https://github.com/paolauande/shoppingmobile/blob/master/screenshots/1.png" width="300"> <img src="https://github.com/paolauande/shoppingmobile/blob/master/screenshots/2.png" width="300">
+<img src="https://github.com/paolauande/shoppingmobile/blob/master/screenshots/3.png" width="250"> <img src="https://github.com/paolauande/shoppingmobile/blob/master/screenshots/4.png" width="300">
+<img src="https://github.com/paolauande/shoppingmobile/blob/master/screenshots/5.png" width="250"> <img src="https://github.com/paolauande/shoppingmobile/blob/master/screenshots/6.png" width="300">
+<img src="https://github.com/paolauande/shoppingmobile/blob/master/screenshots/7.png" width="250"> <img src="https://github.com/paolauande/shoppingmobile/blob/master/screenshots/8.png" width="300">
+<img src="https://github.com/paolauande/shoppingmobile/blob/master/screenshots/9.png" width="250"> <img src="https://github.com/paolauande/shoppingmobile/blob/master/screenshots/10.png" width="300">
+<img src="https://github.com/paolauande/shoppingmobile/blob/master/screenshots/11.png" width="250"> <img src="https://github.com/paolauande/shoppingmobile/blob/master/screenshots/12.png" width="300">
+<img src="https://github.com/paolauande/shoppingmobile/blob/master/screenshots/13.png" width="300">
+
+
+## Requirements
+- IDE with Flutter SKD installed
 ## Getting Started
 
 This project is a starting point for a Flutter application.
